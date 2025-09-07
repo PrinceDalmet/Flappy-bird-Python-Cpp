@@ -2,7 +2,7 @@ Flappy-bird-Python-Cpp
 
 A Flappy Bird game made in Python - Cpp
 
-Screenshort
+Screenshort:
 
 Start game UP arrow key
 
